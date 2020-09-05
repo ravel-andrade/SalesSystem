@@ -1,5 +1,5 @@
 ﻿using SalesWebMvc.Data;
-using SalesWebMvc.Migrations;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
